@@ -7,7 +7,7 @@ $developers = [
     [
         'name'  => 'Justine Erick S. Isleta',
         'role'  => 'Full-Stack Developer / Project Lead',
-        'photo' => 'img/Isleta.jpg',
+        'photo' => 'img/Isleta.png',
         'contributions' => [
             'Designed overall system architecture and database schema',
             'Developed the main application logic (index.php, config.php)',
