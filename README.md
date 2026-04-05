@@ -1,9 +1,9 @@
-# isleta-bayani-EquipmentBorrowedSystem
+# isleta-bayani-EquipmentBorrowingSystem
 
 ITEL 203 – WEB SYSTEMS AND TECHNOLOGIES
 PHP & MySQL CRUD Web Application
 
-Project Title: Equipment Borrowed System                                                                                                                               
+Project Title: Equipment Borrowing System                                                                                                                               
 Members: Isleta, Justine Erick S. and Bayani, Hyuan Andrei U.
          
 Features: A web-based platform built with PHP and MySQL that allows institutions to efficiently manage, 
