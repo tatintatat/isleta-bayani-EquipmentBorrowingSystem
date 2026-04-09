@@ -1,8 +1,7 @@
 
 </main><!-- end .main-content -->
 
-<script>
-    // Sidebar mobile toggle
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js">
     const toggle = document.getElementById('menuToggle');
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('overlay');
@@ -16,14 +15,14 @@
         overlay.classList.remove('show');
     });
 
-    // Flash message auto-dismiss
+    // magfflash na message
     const flash = document.querySelector('.flash');
     if (flash) {
         setTimeout(() => flash.style.opacity = '0', 3500);
         setTimeout(() => flash.remove(), 4000);
     }
 
-    // Confirm delete
+    // ddelete nare
     document.querySelectorAll('.btn-delete').forEach(btn => {
         btn.addEventListener('click', e => {
             if (!confirm('Are you sure you want to delete this record? This cannot be undone.')) {
