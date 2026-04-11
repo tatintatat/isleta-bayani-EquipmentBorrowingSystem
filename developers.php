@@ -13,16 +13,17 @@ $developers = [
             'Developed the main application logic (index.php, config.php)',
             'Implemented all CRUD operations for equipment and borrow records',
             'Led team coordination and task distribution',
+            'Designer of the CSS style sheet'
         ],
     ],
     [
         'name'  => 'Hyuan Andrei U. Bayani',
-        'role'  => 'UI/UX Designer / Frontend Developer',
+        'role'  => 'UI/UX Designer/ Editor',
         'photo' => 'img/Bayani.jpg',
         'contributions' => [
-            'Designed the entire UI layout and visual design system',
-            'Built the CSS stylesheet and responsive mobile layout',
-            'Created equipment.php and the equipment card grid interface',
+            'Responsible for User-friendly designs',
+            'Responsible for Color scheme combination',
+            'Created the powerpoint presentation for our project',
             'Ensured cross-browser compatibility and accessibility',
             'Nagdala ng Shawarma habang nag gagawa',
         ],
