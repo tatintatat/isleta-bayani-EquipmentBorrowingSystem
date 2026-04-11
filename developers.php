@@ -24,6 +24,7 @@ $developers = [
             'Built the CSS stylesheet and responsive mobile layout',
             'Created equipment.php and the equipment card grid interface',
             'Ensured cross-browser compatibility and accessibility',
+            'Nagdala ng Shawarma habang nag gagawa',
         ],
     ],
 ];
