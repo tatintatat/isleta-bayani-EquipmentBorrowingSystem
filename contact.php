@@ -61,10 +61,10 @@ include 'includes/header.php';
             <div class="card-body" style="padding:16px 24px;">
                 <?php
                 $contacts = [
-                    ['fa-envelope',         'Email',       'group@school.edu.ph'],
-                    ['fa-phone',            'Phone',       '+63 9XX XXX XXXX'],
-                    ['fa-location-dot',     'Location',    'College of Information and Communications Technology'],
-                    ['fa-school',           'Institution', 'Your University Name'],
+                    ['fa-envelope',         'Email',       'TeamRizal@school.edu.ph'],
+                    ['fa-phone',            'Phone',       '+63 908 1800 113'],
+                    ['fa-location-dot',     'Location',    'College of Computer Studies'],
+                    ['fa-school',           'Institution', 'Laguna State Polytechnic University San Pablo City Campus'],
                     ['fa-clock',            'Office Hours','Mon – Fri, 8:00 AM – 5:00 PM'],
                 ];
                 foreach ($contacts as $c): ?>
@@ -83,7 +83,7 @@ include 'includes/header.php';
             <div class="card-header"><h2 class="card-title"><i class="fas fa-link" style="color:var(--accent);margin-right:8px"></i>Project Links</h2></div>
             <div class="card-body">
                 <div style="display:flex;flex-direction:column;gap:10px;">
-                    <a href="#" class="btn btn-outline" style="justify-content:flex-start;">
+                    <a href="https://github.com/tatintatat/isleta-bayani-EquipmentBorrowedSystem/" class="btn btn-outline" style="justify-content:flex-start;">
                         <i class="fab fa-github"></i> GitHub Repository
                     </a>
                     <a href="#" class="btn btn-outline" style="justify-content:flex-start;">
