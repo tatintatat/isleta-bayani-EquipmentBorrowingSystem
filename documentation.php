@@ -224,9 +224,10 @@ if ($conn->connect_error) {
             </ol>
             <div class="code-block"># Equipment Borrowing System
 **Subject:** ITEL 203 – Web Systems and Technologies
-**Members:** [Names here]
+**Members:** Isleta, Justine Erick S.
+             Bayani, Hyuan Andrei U.
 **Features:** Equipment CRUD, Borrow Records, Reports, Search
-**Deployment Link:** https://your-url.infinityfreeapp.com</div>
+**Deployment Link:** https://isleta-bayani-equipmentborrowingsystem.ct.ws/</div>
         </div>
     </div>
 </div>
