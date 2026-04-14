@@ -89,8 +89,8 @@ include 'includes/header.php';
                     <a href="#" class="btn btn-outline" style="justify-content:flex-start;">
                         <i class="fas fa-cloud"></i> Live Site (InfinityFree)
                     </a>
-                    <a href="#" class="btn btn-outline" style="justify-content:flex-start;">
-                        <i class="fas fa-presentation-screen"></i> Canva Presentation
+                    <a href="https://canva.link/84pgtrr7glcuczj" class="btn btn-outline" style="justify-content:flex-start;">
+                        <i class=""></i> Canva Presentation
                     </a>
                 </div>
             </div>
